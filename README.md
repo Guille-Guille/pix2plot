@@ -1,6 +1,8 @@
 # pix2plot
 
 @autor: Guillermo Alonso Alonso de Linaje
+
+
 contacto: guillealonso.g@gmail.com
 
 El programa convertirá una imágen satelite en su correspondiente mapeo tridimensional.
