@@ -5,9 +5,9 @@
 
 contacto: guillealonso.g@gmail.com
 
-El programa convertirá una imágen satelite en su correspondiente mapeo tridimensional.
-Pese a que una foto aerea no te facilita el relieve de la zona, con este algoritmo se consigue
-una muy buena primera aproximación. 
+Este programa, al que he bautizado con el nombre de pix2plot;convertirá una imágen satelite en su
+correspondiente mapeo tridimensional. Pese a que una foto aerea no te facilita el relieve de la 
+zona, con este algoritmo se consigue una muy buena primera aproximación. 
 
 Este repositorio cuenta con dos ficheros de código. El primero de todos, 'Relieves' transformará
 la imágen satélite en su correspondiente mapa topográfico con ayuda del algoritmo 'pix_2_pix'.
