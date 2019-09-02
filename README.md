@@ -18,7 +18,8 @@ En otro fichero a parte, 'relieve2' generará el mapa tridimensional a partir de
 Para poder utilizar este fichero, hay que subir en una carpeta comprimida de nombre 'Resultados', 
 los mapas topográficos y posteriormente en la casilla señalada elegir el mapa concreto a plotear.
 
-Dejo adjuntado también un video explicativo del proyecto.
+Dejo un enlace también un video explicativo del proyecto.
+https://www.youtube.com/watch?v=A44bf8CvUSs
 
 Posible aplicación:
 Para generar los mapas topográficos de la Tierra, se realizaron misiones como  la "Misión topográfica Radar Shuttle"
