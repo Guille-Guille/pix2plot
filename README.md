@@ -3,7 +3,7 @@
 @autor: Guillermo Alonso Alonso de Linaje
 
 
-contacto: guillealonso.g@gmail.com
+contacto: guillealonso.g[a]gmail.com
 
 Este programa, al que he bautizado con el nombre de pix2plot;convertirá una imágen satelite en su
 correspondiente mapeo tridimensional. Pese a que una foto aerea no te facilita el relieve de la 
